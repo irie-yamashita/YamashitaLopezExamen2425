@@ -79,6 +79,7 @@ nano main.js
 ```
 Captura apartat 2:  
 ![alt text](src/2_fitxers.png)
+
 ---
 
 
@@ -112,7 +113,10 @@ git cm -m "2- Estructura bàsica"
 Captura punts 3 i 4:  
  ![alt text](src/3_3_reset.png)
  
- 5. **Consulta l'historial de commits, fes captura del terminal.**  
+ 5. **Consulta l'historial de commits, fes captura del terminal.**
+```bash
+git l
+```
  ![alt text](src/3_4_commit.png)  
 
 ---
@@ -180,7 +184,7 @@ git push YamashitaLopezExamen2425 main
 Comprovo a GitHub:  
 ![alt text](src/5_2_pushFet.png)  
 
-4. **Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.**
+3. **Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.**
 
 ![alt text](src/5_4_vercel.png)![alt text](src/5_4_vercel2.png)
 
